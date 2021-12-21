@@ -1,4 +1,7 @@
 import React, { Component } from 'react'
+
+import { CardList } from './components/card-list/card-list.component'
+
 import './App.css';
 
 class App extends Component {
@@ -16,8 +19,9 @@ class App extends Component {
   }
 
   render() {
-    return (
+    return ( 
       <div className="App">
+        <CardList leoprop="boom" ><h1>Children</h1> </CardList>
         { this.state.monsters.map(element => (
           <h1 key={ element.id }> { element.name } </h1>
         ))}
