@@ -2,7 +2,7 @@
   "name": "again-i-learn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pampukhaleo.github.io/complete-react-developer-zero-to-mastery",
+  "homepage": "https://pampukhaleo.github.io/mosters-around",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
