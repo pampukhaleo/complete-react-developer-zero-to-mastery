@@ -1,8 +1,8 @@
 {
-  "name": "again-i-learn",
+  "name": "Monsters Fetch and search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pampukhaleo.github.io/monsters-around-with-GitHubPagesBuild",
+  "homepage": "https://pampukhaleo.github.io/monsters-around",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
